@@ -4,4 +4,4 @@ Repository dedicated to the reading, cleaning, processing and visualization of I
 
 For this purpose, two analogues codes has been developed, mainly in R and Python.
 
-The codes are aimed to read csv files in .txt format
+The codes are aimed to read csv files in .txt and .DPT formats.
