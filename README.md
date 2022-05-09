@@ -4,4 +4,6 @@ Repository dedicated to the reading, cleaning, processing and visualization of I
 
 ![alt text](https://github.com/renecartaya/Instrumentation/blob/main/DAQ_app.png)
 
+https://github.com/renecartaya/IR-Spectroscopy/blob/main/RAIRS_Sample_1.ipynb
+
 For this purpose, two analogues scripts has been developed in R and Python. The codes are aimed to read csv files in .txt and .DPT formats.
